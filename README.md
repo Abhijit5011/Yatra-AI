@@ -1,5 +1,5 @@
 
-### 6. Yatra AI — Your Smart Travel Partner
+## Yatra AI — Your Smart Travel Partner
 
 <div align="left">
   <a href="https://yatra-ai-tourism.vercel.app/">
